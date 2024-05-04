@@ -30,7 +30,7 @@ export const styles = StyleSheet.create({
 
     },
     logo: {
-        backgroundColor: "#8795A0"
+        backgroundColor: "#ffffff"
     },
     header: {
         flexDirection: "row",

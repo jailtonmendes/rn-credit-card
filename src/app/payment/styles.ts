@@ -5,6 +5,16 @@ export const styles = StyleSheet.create({
         flex: 1,
         padding: 32,
     },
+    teamArea: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        alignItems: "center",
+    },
+    team: {
+        padding: 10,
+        marginTop: 20,
+        marginBottom: 20
+    },
     button: {
         alignItems: "center",
         marginVertical: 32,
